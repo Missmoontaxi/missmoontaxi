@@ -23,7 +23,9 @@
 #### Things I've built recently
 
 - **[ImaginationLayer](https://imagination-layer.moontaxilab.com/)** — Experience for hosted event at FOST global conference in NYC.
-- **[ParkWiz](https://parkwizlead.ai)** — Chatbot prototype built in Lovable to demonstrate AI product thinking. Shipped in days.
+- **[WeddingDay](https://www.moontaxilab.com/peanut)** — First time officiating and I took it very seriously ;)
+- **[Resources](https://www.helloeve.co/resources/)** — Dedicated resource center for Eve discovery.
+- **[ParkWiz](https://parkwizlead.ai)** — Chatbot prototype built in Lovable to demonstrate AI product thinking.
 - **[paulamcmahon.com](https://paulamcmahon.com)** — Personal site, designed and deployed myself (Next.js / Tailwind / Vercel).
 - **Claude Code skills + agents** (pinned below) — Including an Agency Lookalike Search Agent and GTM playbooks as code.
 
