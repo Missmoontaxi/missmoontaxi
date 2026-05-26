@@ -14,7 +14,7 @@
 
 #### Where I've scaled things before
 
-**The AI Collective** (community: 35K → 250K+) · **Disney+** (platform launch) · **Yahoo** · **Walt Disney Imagineering**
+**The AI Collective** (community: 35K → 250K+) · **Disney+** (launch to 150M+ subs) · **Yahoo** · **Walt Disney Imagineering**
 
 #### Stack I actually use
 
@@ -31,6 +31,6 @@
 
 **2026 word: Claim.**
 
-Off the clock: snowboarding, winemaking, and probably too much prestige TV.
+Off the clock: snowboarding, winemaking, and probably too much sushi.
 
-Building something in AI and want a GTM operator who'll open the laptop with you? Find me on [LinkedIn](https://www.linkedin.com/in/paulamcmahon/) or via [paulamcmahon.com](https://paulamcmahon.com).
+Building something in AI and want a powerhouse operator who'll open the laptop with you? Find me on [LinkedIn](https://www.linkedin.com/in/paulamcmahon/) or via [paulamcmahon.com](https://paulamcmahon.com).
