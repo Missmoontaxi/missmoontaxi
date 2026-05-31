@@ -22,7 +22,7 @@
 
 #### Things I've built recently
 
-- **[NYTechWeek](https://demo-night.moontaxilab.com/)** — Experience for hosted event at FOST global conference in NYC.
+- **[NYTechWeek](https://demo-night.moontaxilab.com/)** — Demo Night with stellar lineup of startups, prizes, tasty bites.
 - **[ImaginationLayer](https://imagination-layer.moontaxilab.com/)** — Experience for hosted event at FOST global conference in NYC.
 - **[WeddingDay](https://www.moontaxilab.com/peanut)** — First time officiating and I took it very seriously ;)
 - **[Resources](https://www.helloeve.co/resources/)** — Dedicated resource center for Eve discovery.
