@@ -1,6 +1,6 @@
 ### Hi, I'm Paula 👋
 
-**Growth strategist and founding COO. Scale operator with soul.** I help AI-native companies turn early traction into durable growth and I do the work alongside the founders, not from a deck.
+**Growth strategist and founding COO. Scale operator with soul.** I help AI-native companies turn early traction into durable growth and I do the work alongside the leaders, not from a deck.
 
 📍 New York City · 🌐 [paulamcmahon.com](https://paulamcmahon.com)
 
@@ -9,16 +9,16 @@
 #### What I'm doing now
 
 - 🎯 Partnership strategy and sales enablement for **[Eve](https://helloeve.co)** — the Executive Voice Engine
-- 🚖 Building ecosystem advisory practice through **Moontaxi Lab**
-- 🧪 Shipping AI workflows in **Claude Code** — slash commands, agents, sales playbooks as code
+- 🚖 Building ecosystem and advisory practice through **Moontaxi Lab**
+- 🧪 Shipping AI workflows in **Claude Code** — slash commands, skills, agents, sales playbooks as code
 
 #### Where I've scaled things before
 
-**The AI Collective** (community: 35K → 250K+) · **Disney+** (launch to 150M+ subs) · **Yahoo** · **Walt Disney Imagineering**
+**The AI Collective** (community: 35K → 250K+) · **Disney+** (launch to 150M+ subs) · **Yahoo Media** · **Walt Disney Imagineering**
 
 #### Stack I actually use
 
-`Claude Code` · `Next.js` · `TypeScript` · `Tailwind` · `Vercel` · `Lovable` · `MCP` · `n8n` · `Notion`
+`Claude Code` · `Codex` · `Next.js` · `TypeScript` · `Tailwind` · `Vercel` · `Lovable` · `MCP` · `n8n` · `Notion`
 
 #### Things I've built recently
 
@@ -35,4 +35,4 @@
 
 Off the clock: snowboarding, winemaking, and probably too much sushi.
 
-Building something in AI and want a powerhouse operator who'll open the laptop with you? Find me on [LinkedIn](https://www.linkedin.com/in/paulamcmahon/) or via [paulamcmahon.com](https://paulamcmahon.com).
+Building something in AI and want a powerhouse operator who'll lock in with you? Find me on [LinkedIn](https://www.linkedin.com/in/paulamcmahon/) or via [paulamcmahon.com](https://paulamcmahon.com).
