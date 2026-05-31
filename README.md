@@ -1,6 +1,6 @@
 ### Hi, I'm Paula 👋
 
-**Growth strategist and Fractional COO. Scale operator with soul.** I help AI-native companies turn early traction into durable growth and I do the work alongside the founders, not from a deck.
+**Growth strategist and founding COO. Scale operator with soul.** I help AI-native companies turn early traction into durable growth and I do the work alongside the founders, not from a deck.
 
 📍 New York City · 🌐 [paulamcmahon.com](https://paulamcmahon.com)
 
