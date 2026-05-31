@@ -9,7 +9,7 @@
 #### What I'm doing now
 
 - 🎯 Partnership strategy and sales enablement for **[Eve](https://helloeve.co)** — the Executive Voice Engine
-- 🚖 Building my fractional advisory practice through **Moontaxi Lab**
+- 🚖 Building ecosystem advisory practice through **Moontaxi Lab**
 - 🧪 Shipping AI workflows in **Claude Code** — slash commands, agents, sales playbooks as code
 
 #### Where I've scaled things before
