@@ -18,7 +18,7 @@
 
 #### Stack I actually use
 
-`Claude Code` · `Codex` · `Next.js` · `TypeScript` · `Tailwind` · `Vercel` · `Lovable` · `MCP` · `n8n` · `Notion`
+`Claude Code` · `Codex` · `Next.js` · `TypeScript` · `Tailwind` · `Vercel` · `Attio` · `MCP` · `n8n` · `Notion`
 
 #### Things I've built recently
 
