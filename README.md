@@ -1,6 +1,6 @@
 ### Hi, I'm Paula 👋
 
-**Enterprise executive turned AI-native operator. I ran P&Ls and partnerships at Disney, Yahoo, and in biotech. Today I run Partnerships & Ecosystem at Eve, and I build the systems I run.
+Enterprise executive turned AI-native operator. I ran P&Ls and partnerships at Disney, Yahoo, and in biotech. Today I run Partnerships & Ecosystem at Eve, and I build the systems I run.
 
 What's here is working software I use every day, not tutorials.
 
