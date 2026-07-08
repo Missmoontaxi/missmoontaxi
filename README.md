@@ -36,6 +36,6 @@ Claude Code and Codex as daily driver. TypeScript, Next.js, Tailwind, Vercel; No
 
 **The longer story**
 
-First New York hire on Disney+ Partnerships: 150M+ subscribers, 100+ countries, partner portfolio from zero to 50+. $156M P&L modernization at Yahoo. Conversational AI at Disney Imagineering. Helped scale The AI Collective from 35K to 150K+ members; NYC chapter lead. MIT Sloan, AI strategy.
+First New York hire on Disney+ Partnerships grew to 150M+ subscribers, 100+ countries, partner portfolio from zero to 50+. $156M P&L modernization at Yahoo. Conversational AI at Disney Imagineering. Helped scale The AI Collective from 35K to 250K+ members as NYC chapter lead and head of Operations. MIT Sloan, AI strategy.
 
 paulamcmahon.com · [LinkedIn](https://www.linkedin.com/in/paulamcmahon)
