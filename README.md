@@ -1,38 +1,41 @@
 ### Hi, I'm Paula 👋
 
-**Growth strategist and founding COO. Scale operator with soul.** I help AI-native companies turn early traction into durable growth and I do the work alongside the leaders, not from a deck.
+**Enterprise executive turned AI-native operator. I ran P&Ls and partnerships at Disney, Yahoo, and in biotech. Today I run Partnerships & Ecosystem at Eve, and I build the systems I run.
+
+What's here is working software I use every day, not tutorials.
 
 📍 New York City · 🌐 [paulamcmahon.com](https://paulamcmahon.com)
 
 ---
 
-#### What I'm doing now
+#### Systems I've shipped
 
-- 🎯 Partnership strategy and sales enablement for **[Eve](https://helloeve.co)** — the Executive Voice Engine
-- 🚖 Building ecosystem and advisory practice through **Moontaxi Lab**
-- 🧪 Shipping AI workflows in **Claude Code** — slash commands, skills, agents, sales playbooks as code
+| System | What it does |
+|---|---|
+| [eve-radar](https://github.com/Missmoontaxi/eve-radar) | Event intelligence for the Eve GTM team. A Claude Code skill sources and scores hundreds of AI/tech events; a zero-build SPA with shared team starring (Vercel KV) renders the ranked radar we plan field presence around. In production (internal instance). |
+| [paula-site](https://github.com/Missmoontaxi/paula-site) | paulamcmahon.com. Next.js, Tailwind, Vercel. Designed, built, and deployed by me. Live. |
+| [moontaxi-lab](https://github.com/Missmoontaxi/moontaxi-lab) | moontaxilab.com, my lab notebook: agents, experiments, and build notes. Live. |
+| Eve Resource Center | Partner-facing resource hub, built from scratch on helloeve.co. Replaced a contracted web build. Live. |
+| GTM agent stack | Prospect research, competitor one-pagers, and pipeline automations in Claude Code. In production at Eve (private). |
 
 #### Where I've scaled things before
 
 **The AI Collective** (community: 35K → 250K+) · **Disney+** (launch to 150M+ subs) · **Yahoo Media** · **Walt Disney Imagineering**
 
-#### Stack I actually use
+#### How I work
 
-`Claude Code` · `Codex` · `Next.js` · `TypeScript` · `Tailwind` · `Vercel` · `Attio` · `MCP` · `n8n` · `Notion`
+Claude Code and Codex as daily driver. TypeScript, Next.js, Tailwind, Vercel; Notion, Attio and GitHub as the ops backbone. I design the workflow, ship it, then run the business process on top of it. Code as operating leverage.
 
-#### Things I've built recently
+#### Other things I've built recently
 
 - **[NYTechWeek](https://demo-night.moontaxilab.com/)** — Demo Night with stellar lineup of startups, prizes, tasty bites.
 - **[ImaginationLayer](https://imagination-layer.moontaxilab.com/)** — Experience for hosted event at FOST global conference in NYC.
 - **[WeddingDay](https://www.moontaxilab.com/peanut)** — First time officiating and I took it very seriously ;)
-- **[Resources](https://www.helloeve.co/resources/)** — Dedicated resource center for Eve discovery.
-- **[paulamcmahon.com](https://paulamcmahon.com)** — Personal site, designed and deployed myself (Next.js / Tailwind / Vercel).
-- **Claude Code skills + agents** (pinned below) — Including an Agency Lookalike Search Agent and GTM playbooks as code.
 
 ---
 
-**2026 word: Claim.**
+**The longer story**
 
-Off the clock: snowboarding, winemaking, and probably too much sushi.
+First New York hire on Disney+ Partnerships: 150M+ subscribers, 100+ countries, partner portfolio from zero to 50+. $156M P&L modernization at Yahoo. Conversational AI at Disney Imagineering. Helped scale The AI Collective from 35K to 150K+ members; NYC chapter lead. MIT Sloan, AI strategy.
 
-Building something in AI and want a powerhouse operator who'll lock in with you? Find me on [LinkedIn](https://www.linkedin.com/in/paulamcmahon/) or via [paulamcmahon.com](https://paulamcmahon.com).
+paulamcmahon.com · [LinkedIn](https://www.linkedin.com/in/paulamcmahon)
