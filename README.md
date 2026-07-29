@@ -1,6 +1,6 @@
 ### Hi, I'm Paula 👋
 
-Enterprise executive turned AI-native operator. I ran P&Ls and partnerships at Disney, Yahoo, and in biotech. Today I run Partnerships & Ecosystem at Eve, and I build the systems I run.
+Enterprise executive turned AI-native operator. I ran P&Ls and partnerships at Disney, Yahoo, and in biotech. Today, I build GTM systems that help founders adopt AI including event intelligence, prospect research, partner workflows, resource hubs, and founder-facing tools.
 
 What's here is working software I use every day, not tutorials.
 
@@ -8,7 +8,7 @@ What's here is working software I use every day, not tutorials.
 
 ---
 
-#### Systems I've shipped:
+#### AI-Native GTM Systems I've Shipped:
 
 | System | What it does |
 |---|---|
