@@ -1,6 +1,6 @@
 ### Hi, I'm Paula 👋
 
-Enterprise executive turned AI-native operator. I ran P&Ls and partnerships at Disney, Yahoo, and in biotech. Today, I build GTM systems that help founders adopt AI including event intelligence, prospect research, partner workflows, resource hubs, and founder-facing tools.
+Enterprise executive turned AI-native operator. I ran product, P&Ls and partnerships at Disney, Yahoo, and in biotech. Today, I build GTM systems that help founders adopt AI including event intelligence, prospect research, partner workflows, resource hubs, and founder-facing tools.
 
 What's here is working software I use every day, not tutorials.
 
