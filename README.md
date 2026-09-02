@@ -8,7 +8,7 @@ What's here is working software I use every day, not tutorials.
 
 ---
 
-#### AI-Native GTM Systems I've Shipped:
+#### AI-Native GTM Systems:
 
 | System | What it does |
 |---|---|
