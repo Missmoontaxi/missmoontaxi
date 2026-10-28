@@ -8,7 +8,7 @@ What's here is working software I use every day, not tutorials.
 
 ---
 
-#### 🛠️ Building now: an AI chief of staff (opens November 2026)
+#### 🛠️ Building now: an AI chief of staff and AI handoff showcase
 
 A working demo of an AI chief of staff for a fictional CEO. A daily brief where every card flips to show its receipts, plus the engine room underneath it.
 
@@ -17,7 +17,7 @@ A working demo of an AI chief of staff for a fictional CEO. A daily brief where 
 - A read-only MCP server, so it works inside the assistants people already use, including Claude and ChatGPT
 - Next.js on Vercel, secrets scanning on every commit, Playwright layout tests
 
-The repo goes public in November. Watch this space.
+The repo goes public soon. Watch this space.
 
 ---
 
