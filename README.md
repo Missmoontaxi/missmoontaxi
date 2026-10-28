@@ -17,7 +17,7 @@ A working demo of an AI chief of staff for a fictional CEO. A daily brief where 
 - A read-only MCP server, so it works inside the assistants people already use, including Claude and ChatGPT
 - Next.js on Vercel, secrets scanning on every commit, Playwright layout tests
 
-The repo goes public soon. Watch this space.
+The repo goes public soon.
 
 ---
 
