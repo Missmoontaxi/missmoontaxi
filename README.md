@@ -1,6 +1,6 @@
 ### Hi, I'm Paula 👋
 
-Enterprise executive turned AI-native operator. I ran product, P&Ls and partnerships at Disney, Yahoo, and in biotech. On Eve's founding team I built the operating foundation and the GTM systems behind it, including event intelligence, prospect research, partner workflows, resource hubs, and founder-facing tools.
+Enterprise executive turned AI-native operator. I ran product, P&Ls and partnerships at Disney, Yahoo, and in biotech. As part of Eve's founding team, I built the operating foundation and the GTM systems behind it, including event intelligence, prospect research, partner workflows, resource hubs, and founder-facing tools.
 
 What's here is working software I use every day, not tutorials.
 
@@ -8,7 +8,7 @@ What's here is working software I use every day, not tutorials.
 
 ---
 
-#### 🛠️ Building now: an AI chief of staff and AI handoff showcase
+#### 🛠️ Building now: an AI daily brief and AI handoff showcase
 
 A working demo of an AI chief of staff for a fictional CEO. A daily brief where every card flips to show its receipts, plus the engine room underneath it.
 
@@ -16,8 +16,6 @@ A working demo of an AI chief of staff for a fictional CEO. A daily brief where 
 - An eval suite in CI (promptfoo) that grades every daily brief against a rubric and golden cases
 - A read-only MCP server, so it works inside the assistants people already use, including Claude and ChatGPT
 - Next.js on Vercel, secrets scanning on every commit, Playwright layout tests
-
-The repo goes public soon.
 
 ---
 
