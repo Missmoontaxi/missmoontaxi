@@ -10,7 +10,7 @@ What's here is working software I use every day, not tutorials.
 
 #### 🛠️ Building now: an AI daily brief and AI handoff showcase
 
-A working demo of an AI chief of staff for a fictional CEO. A daily brief where every card flips to show its receipts, plus the engine room underneath it.
+A working demo of an AI chief of staff for a fictional CEO. A daily brief where every card flips to show its receipts, plus the engine room underneath it. Office setting themed to Hudson Valley or Manhattan.
 
 - Claude and GPT behind one gateway, with hard cost caps
 - An eval suite in CI (promptfoo) that grades every daily brief against a rubric and golden cases
